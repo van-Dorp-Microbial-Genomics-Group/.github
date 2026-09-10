@@ -30,18 +30,13 @@ This organisation hosts:
 
 Group members can find internal documentation, protocols, cluster information and tutorials in the private `lab-resources` repository.
 
-## Working with us
-
-We welcome collaboration and discussion around microbial genomics, pathogen evolution and computational methods.
-
 ## Group information
 
 **Location:** UCL, London  
-**Office:** Darwin Building, Room 108a  
-**Group meeting:** Tuesdays at 10:30 am as part of the UGI Microbial Core Team
+**Lucy's Office:** Darwin Building, Room 108a  
+**Group meeting:** Tuesdays at 10:30am as part of the UGI Microbial Core Team
 
 ## Links
 
-- **UCL group page:** [add link]
-- **Publications:** [add link]
-- **Slack:** [add link]
+- **UCL group page:** https://www.homepages.ucl.ac.uk/~ucbpvan/
+- **Publications:** https://scholar.google.com/citations?hl=en&user=t-9AxTcAAAAJ&view_op=list_works&sortby=pubdate
