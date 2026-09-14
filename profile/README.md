@@ -32,7 +32,6 @@ Group members can find internal documentation, protocols, cluster information an
 ## Group information
 
 **Location:** UCL, London  
-**Lucy's Office:** Darwin Building, Room 108a  
 **Group meeting:** Tuesdays at 10:30am as part of the UGI Microbial Core Team
 
 ## Links
