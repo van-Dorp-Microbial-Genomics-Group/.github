@@ -14,16 +14,15 @@ Our work combines microbial genomics, evolutionary biology, population genetics 
 - Antimicrobial resistance
 - Phylogenetics and phylodynamics
 - Comparative genomics
-- Reproducible computational workflows
 
 ## Repositories
 
 This organisation hosts:
 
 - Research software and analysis pipelines
-- Reproducible code associated with publications
-- Shared computational tools
-- Training and tutorial material
+- Code associated with publications
+- Shared computational tools for lab members
+- Training and tutorial material for lab members
 - Internal lab documentation and resources
 
 ## Lab resources
